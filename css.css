@@ -1,0 +1,16 @@
+.header {
+background-color:#A9B388;
+margin:0
+}
+
+.buttonss {
+    border-radius:10px;
+    background-color:#FEFAE0;
+    border:#5F6F52 solid;
+    border-width: 2;
+    color:#A9B388;
+}
+.a {
+    color:#FEFAE0;  
+    font-family: 'Monomaniac One', sans-serif;
+}
