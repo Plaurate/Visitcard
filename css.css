@@ -1,16 +1,28 @@
 .header {
 background-color:#A9B388;
-margin:0
+margin:0;
 }
 
 .buttonss {
-    border-radius:10px;
+    border-radius:20px;
     background-color:#FEFAE0;
     border:#5F6F52 solid;
     border-width: 2;
-    color:#A9B388;
 }
 .a {
     color:#FEFAE0;  
     font-family: 'Monomaniac One', sans-serif;
+}
+.color1 {
+    color:#5F6F52;
+}
+.Prasmeskaste {
+    background-color: #FEFAE0;
+    height:700px
+}
+
+.flexy {
+    display:grid;
+    grid-column: 1;
+
 }
