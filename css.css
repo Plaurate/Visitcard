@@ -11,18 +11,152 @@ margin:0;
 }
 .a {
     color:#FEFAE0;  
-    font-family: 'Monomaniac One', sans-serif;
+    font-family: 'Kalnia', serif;
 }
 .color1 {
     color:#5F6F52;
+    font-family: 'Crimson Text', serif;
 }
 .Prasmeskaste {
     background-color: #FEFAE0;
-    height:700px
+    height:auto;
+    padding-bottom:30px;
 }
 
-.flexy {
+.grr {
     display:grid;
     grid-column: 1;
 
+}
+
+.Prasmes {
+    text-align:center;
+    font-family: 'Kalnia', serif;
+    color:#B99470;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.prasme1 {
+    border: 0px;
+    background-color:#A9B388
+}
+
+.prasmesn1 {
+    background-color: #FEFAE0;
+    border:#FEFAE0 solid 1px;
+    border-radius:10px;
+    color:#B99470;
+    text-align:center;
+    font-family: 'Kalnia', serif;
+}
+
+.card-text {
+    font-family: 'Crimson Text', serif;
+    color:#FEFAE0;
+    font-size:large;
+}
+img{
+    border-radius:20px;
+}
+
+.card1 {
+    margin-left:auto;
+    margin-right:auto;
+    width:80%
+}
+
+.prasimg {
+    display:flex;
+width:80%;
+margin-left:auto;
+margin-right:auto;
+align-items:center;
+}
+
+.pieredzekaste {
+    background-color:#A9B388;
+    height:auto;
+    padding-bottom:30px;
+}
+.pieredze {
+    text-align:center;
+    font-family: 'Kalnia', serif;
+    color:#FEFAE0;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.carus {
+    width:50%;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.intereses {
+    background-color:#5F6F52;
+    height:auto;
+    padding-bottom:30px;
+}
+
+.intereses1 {
+    border:#5F6F52 10px;
+    background-color:#FEFAE0;
+}
+
+.interesesn1 {
+    background-color:#B99470;
+    border:#B99470 solid 1px;
+    border-radius:10px;
+    color:#FEFAE0;
+    text-align:center;
+    font-family: 'Kalnia', serif;
+}
+
+.interesesy {
+    text-align:center;
+    font-family: 'Kalnia', serif;
+    color:#FEFAE0;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.sa {
+    color:#B99470;
+}
+
+.intrimg {
+    display:flex;
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    align-items:center;
+}
+
+.card2 {
+    margin-left:auto;
+    margin-right:auto;
+}
+.icon {
+    width:5em;
+    margin-right:auto;
+
+}
+
+.soc {
+    background-color:#FEFAE0;
+    height:auto;
+    padding-bottom:30px;
+}
+
+.footer {
+    background-color:#FEFAE0;
+    margin:0;
+    }
+
+.s {
+    height:fit-content;
+    color:#B99470;
+    border-color:#B99470;
 }
